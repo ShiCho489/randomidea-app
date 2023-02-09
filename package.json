@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Brad Traversy",
+  "author": "ABC",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
